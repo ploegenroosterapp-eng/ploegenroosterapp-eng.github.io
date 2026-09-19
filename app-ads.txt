@@ -4,3 +4,4 @@ inmobi.com, 18e95c55c8354ff0a7d35083a2f2fc5a, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
+mintegral.com, 75416, DIRECT, 0aeed750c80d6423
